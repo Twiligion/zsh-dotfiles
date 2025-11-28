@@ -3,6 +3,7 @@
 * **zsh**
 * Plugins manager: sheldon
 * Prompt: starship
+* Other: fzf, zoxide
 
 
 * **Kakoune**
